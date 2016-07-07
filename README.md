@@ -10,3 +10,5 @@ User can set database for coutry codes either from local file or from backend/se
 
 ![Alt text]../device-2016-07-07-124900.png.jpg?raw=true "Optional Title")
 
+[![solarized dualmode](https://github.com/sandeep549/CountryCode/blob/master/device-2016-07-07-124900.png)](#features)
+
