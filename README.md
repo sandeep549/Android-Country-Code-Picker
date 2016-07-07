@@ -8,7 +8,10 @@ Note:
 By default sets coutry telephony code based on user SIM country. SIM is absent then only '+' willbe shown.
 User can set database for coutry codes either from local file or from backend/server.
 
-![Alt text]../device-2016-07-07-124900.png.jpg?raw=true "Optional Title")
 
-[![solarized dualmode](https://github.com/sandeep549/CountryCode/blob/master/device-2016-07-07-124900.png)](#features)
+[![Search Country](https://github.com/sandeep549/CountryCode/blob/master/device-2016-07-07-124900.png)](#features)
+
+[![Search Country](https://github.com/sandeep549/CountryCode/blob/master/device-2016-07-07-124921.png)](#features)
+
+[![Search Country](https://github.com/sandeep549/CountryCode/blob/master/device-2016-07-07-124935.png)](#features)
 
