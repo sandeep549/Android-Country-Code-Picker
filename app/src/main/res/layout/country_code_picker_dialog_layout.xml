@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <LinearLayout
+        android:gravity="center"
+        android:id="@+id/country_holder"
+        android:layout_alignParentTop="true"
+        android:layout_height="48dp"
+        android:layout_width="match_parent"
+        >
+
+        <EditText
+            android:id="@+id/search_country_name"
+            android:hint="country name"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:paddingLeft="20dp"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/cancel_button"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:text="CANCEL"
+        android:textSize="14sp"/>
+
+    <ListView
+        android:id="@+id/county_list"
+        android:layout_above="@id/cancel_button"
+        android:layout_below="@+id/country_holder"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+</RelativeLayout>

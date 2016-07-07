@@ -1,0 +1,1444 @@
+{
+  "countries": [
+    {
+      "fullName": "India",
+      "shortName": "IND",
+      "locale": "IN",
+      "telephonyCode": "91"
+    },
+    {
+      "fullName": "United States",
+      "shortName": "USA",
+      "locale": "US",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "United Kingdom",
+      "shortName": "GBR",
+      "locale": "GB",
+      "telephonyCode": "44"
+    },
+    {
+      "fullName": "Afghanistan",
+      "shortName": "AFG",
+      "locale": "AF",
+      "telephonyCode": "93"
+    },
+    {
+      "fullName": "Albania",
+      "shortName": "ALB",
+      "locale": "AL",
+      "telephonyCode": "355"
+    },
+    {
+      "fullName": "Algeria",
+      "shortName": "DZA",
+      "locale": "DZ",
+      "telephonyCode": "213"
+    },
+    {
+      "fullName": "American Samoa",
+      "shortName": "ASM",
+      "locale": "AS",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Andorra",
+      "shortName": "AND",
+      "locale": "AD",
+      "telephonyCode": "376"
+    },
+    {
+      "fullName": "Angola",
+      "shortName": "AGO",
+      "locale": "AO",
+      "telephonyCode": "244"
+    },
+    {
+      "fullName": "Anguilla",
+      "shortName": "AIA",
+      "locale": "AI",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Antarctica",
+      "shortName": "ATA",
+      "locale": "AQ",
+      "telephonyCode": "672"
+    },
+    {
+      "fullName": "Antigua and Barbuda",
+      "shortName": "ATG",
+      "locale": "AG",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Argentina",
+      "shortName": "ARG",
+      "locale": "AR",
+      "telephonyCode": "54"
+    },
+    {
+      "fullName": "Armenia",
+      "shortName": "ARM",
+      "locale": "AM",
+      "telephonyCode": "374"
+    },
+    {
+      "fullName": "Aruba",
+      "shortName": "ABW",
+      "locale": "AW",
+      "telephonyCode": "297"
+    },
+    {
+      "fullName": "Australia",
+      "shortName": "AUS",
+      "locale": "AU",
+      "telephonyCode": "61"
+    },
+    {
+      "fullName": "Austria",
+      "shortName": "AUT",
+      "locale": "AT",
+      "telephonyCode": "43"
+    },
+    {
+      "fullName": "Azerbaijan",
+      "shortName": "AZE",
+      "locale": "AZ",
+      "telephonyCode": "994"
+    },
+    {
+      "fullName": "Bahamas",
+      "shortName": "BHS",
+      "locale": "BS",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Bahrain",
+      "shortName": "BHR",
+      "locale": "BH",
+      "telephonyCode": "973"
+    },
+    {
+      "fullName": "Bangladesh",
+      "shortName": "BGD",
+      "locale": "BD",
+      "telephonyCode": "880"
+    },
+    {
+      "fullName": "Barbados",
+      "shortName": "BRB",
+      "locale": "BB",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Belarus",
+      "shortName": "BLR",
+      "locale": "BY",
+      "telephonyCode": "375"
+    },
+    {
+      "fullName": "Belgium",
+      "shortName": "BEL",
+      "locale": "BE",
+      "telephonyCode": "32"
+    },
+    {
+      "fullName": "Belize",
+      "shortName": "BLZ",
+      "locale": "BZ",
+      "telephonyCode": "501"
+    },
+    {
+      "fullName": "Benin",
+      "shortName": "BEN",
+      "locale": "BJ",
+      "telephonyCode": "229"
+    },
+    {
+      "fullName": "Bermuda",
+      "shortName": "BMU",
+      "locale": "BM",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Bhutan",
+      "shortName": "BTN",
+      "locale": "BT",
+      "telephonyCode": "975"
+    },
+    {
+      "fullName": "Bolivia",
+      "shortName": "BOL",
+      "locale": "BO",
+      "telephonyCode": "591"
+    },
+    {
+      "fullName": "Bosnia and Herzegovina",
+      "shortName": "BIH",
+      "locale": "BA",
+      "telephonyCode": "387"
+    },
+    {
+      "fullName": "Botswana",
+      "shortName": "BWA",
+      "locale": "BW",
+      "telephonyCode": "267"
+    },
+    {
+      "fullName": "Brazil",
+      "shortName": "BRA",
+      "locale": "BR",
+      "telephonyCode": "55"
+    },
+    {
+      "fullName": "British Indian Ocean Territory",
+      "shortName": "IOT",
+      "locale": "IO",
+      "telephonyCode": "246"
+    },
+    {
+      "fullName": "British Virgin Islands",
+      "shortName": "VGB",
+      "locale": "VG",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Brunei",
+      "shortName": "BRN",
+      "locale": "BN",
+      "telephonyCode": "673"
+    },
+    {
+      "fullName": "Bulgaria",
+      "shortName": "BGR",
+      "locale": "BG",
+      "telephonyCode": "359"
+    },
+    {
+      "fullName": "Burkina Faso",
+      "shortName": "BFA",
+      "locale": "BF",
+      "telephonyCode": "226"
+    },
+    {
+      "fullName": "Burundi",
+      "shortName": "BDI",
+      "locale": "BI",
+      "telephonyCode": "257"
+    },
+    {
+      "fullName": "Cambodia",
+      "shortName": "KHM",
+      "locale": "KH",
+      "telephonyCode": "855"
+    },
+    {
+      "fullName": "Cameroon",
+      "shortName": "CMR",
+      "locale": "CM",
+      "telephonyCode": "237"
+    },
+    {
+      "fullName": "Canada",
+      "shortName": "CAN",
+      "locale": "CA",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Cape Verde",
+      "shortName": "CPV",
+      "locale": "CV",
+      "telephonyCode": "238"
+    },
+    {
+      "fullName": "Cayman Islands",
+      "shortName": "CYM",
+      "locale": "KY",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Central African Republic",
+      "shortName": "CAF",
+      "locale": "CF",
+      "telephonyCode": "236"
+    },
+    {
+      "fullName": "Chad",
+      "shortName": "TCD",
+      "locale": "TD",
+      "telephonyCode": "235"
+    },
+    {
+      "fullName": "Chile",
+      "shortName": "CHL",
+      "locale": "CL",
+      "telephonyCode": "56"
+    },
+    {
+      "fullName": "China",
+      "shortName": "CHN",
+      "locale": "CN",
+      "telephonyCode": "86"
+    },
+    {
+      "fullName": "Christmas Island",
+      "shortName": "CXR",
+      "locale": "CX",
+      "telephonyCode": "61"
+    },
+    {
+      "fullName": "Cocos Islands",
+      "shortName": "CCK",
+      "locale": "CC",
+      "telephonyCode": "61"
+    },
+    {
+      "fullName": "Colombia",
+      "shortName": "COL",
+      "locale": "CO",
+      "telephonyCode": "57"
+    },
+    {
+      "fullName": "Comoros",
+      "shortName": "COM",
+      "locale": "KM",
+      "telephonyCode": "269"
+    },
+    {
+      "fullName": "Cook Islands",
+      "shortName": "COK",
+      "locale": "CK",
+      "telephonyCode": "682"
+    },
+    {
+      "fullName": "Costa Rica",
+      "shortName": "CRI",
+      "locale": "CR",
+      "telephonyCode": "506"
+    },
+    {
+      "fullName": "Croatia",
+      "shortName": "HRV",
+      "locale": "HR",
+      "telephonyCode": "385"
+    },
+    {
+      "fullName": "Cuba",
+      "shortName": "CUB",
+      "locale": "CU",
+      "telephonyCode": "53"
+    },
+    {
+      "fullName": "Curacao",
+      "shortName": "CUW",
+      "locale": "CW",
+      "telephonyCode": "599"
+    },
+    {
+      "fullName": "Cyprus",
+      "shortName": "CYP",
+      "locale": "CY",
+      "telephonyCode": "357"
+    },
+    {
+      "fullName": "Czech Republic",
+      "shortName": "CZE",
+      "locale": "CZ",
+      "telephonyCode": "420"
+    },
+    {
+      "fullName": "Democratic Republic of the Congo",
+      "shortName": "COD",
+      "locale": "CD",
+      "telephonyCode": "243"
+    },
+    {
+      "fullName": "Denmark",
+      "shortName": "DNK",
+      "locale": "DK",
+      "telephonyCode": "45"
+    },
+    {
+      "fullName": "Djibouti",
+      "shortName": "DJI",
+      "locale": "DJ",
+      "telephonyCode": "253"
+    },
+    {
+      "fullName": "Dominica",
+      "shortName": "DMA",
+      "locale": "DM",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Dominican Republic",
+      "shortName": "DOM",
+      "locale": "DO",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "East Timor",
+      "shortName": "TLS",
+      "locale": "TL",
+      "telephonyCode": "670"
+    },
+    {
+      "fullName": "Ecuador",
+      "shortName": "ECU",
+      "locale": "EC",
+      "telephonyCode": "593"
+    },
+    {
+      "fullName": "Egypt",
+      "shortName": "EGY",
+      "locale": "EG",
+      "telephonyCode": "20"
+    },
+    {
+      "fullName": "El Salvador",
+      "shortName": "SLV",
+      "locale": "SV",
+      "telephonyCode": "503"
+    },
+    {
+      "fullName": "Equatorial Guinea",
+      "shortName": "GNQ",
+      "locale": "GQ",
+      "telephonyCode": "240"
+    },
+    {
+      "fullName": "Eritrea",
+      "shortName": "ERI",
+      "locale": "ER",
+      "telephonyCode": "291"
+    },
+    {
+      "fullName": "Estonia",
+      "shortName": "EST",
+      "locale": "EE",
+      "telephonyCode": "372"
+    },
+    {
+      "fullName": "Ethiopia",
+      "shortName": "ETH",
+      "locale": "ET",
+      "telephonyCode": "251"
+    },
+    {
+      "fullName": "Falkland Islands",
+      "shortName": "FLK",
+      "locale": "FK",
+      "telephonyCode": "500"
+    },
+    {
+      "fullName": "Faroe Islands",
+      "shortName": "FRO",
+      "locale": "FO",
+      "telephonyCode": "298"
+    },
+    {
+      "fullName": "Fiji",
+      "shortName": "FJI",
+      "locale": "FJ",
+      "telephonyCode": "679"
+    },
+    {
+      "fullName": "Finland",
+      "shortName": "FIN",
+      "locale": "FI",
+      "telephonyCode": "358"
+    },
+    {
+      "fullName": "France",
+      "shortName": "FRA",
+      "locale": "FR",
+      "telephonyCode": "33"
+    },
+    {
+      "fullName": "French Polynesia",
+      "shortName": "PYF",
+      "locale": "PF",
+      "telephonyCode": "689"
+    },
+    {
+      "fullName": "Gabon",
+      "shortName": "GAB",
+      "locale": "GA",
+      "telephonyCode": "241"
+    },
+    {
+      "fullName": "Gambia",
+      "shortName": "GMB",
+      "locale": "GM",
+      "telephonyCode": "220"
+    },
+    {
+      "fullName": "Georgia",
+      "shortName": "GEO",
+      "locale": "GE",
+      "telephonyCode": "995"
+    },
+    {
+      "fullName": "Germany",
+      "shortName": "DEU",
+      "locale": "DE",
+      "telephonyCode": "49"
+    },
+    {
+      "fullName": "Ghana",
+      "shortName": "GHA",
+      "locale": "GH",
+      "telephonyCode": "233"
+    },
+    {
+      "fullName": "Gibraltar",
+      "shortName": "GIB",
+      "locale": "GI",
+      "telephonyCode": "350"
+    },
+    {
+      "fullName": "Greece",
+      "shortName": "GRC",
+      "locale": "GR",
+      "telephonyCode": "30"
+    },
+    {
+      "fullName": "Greenland",
+      "shortName": "GRL",
+      "locale": "GL",
+      "telephonyCode": "299"
+    },
+    {
+      "fullName": "Grenada",
+      "shortName": "GRD",
+      "locale": "GD",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Guam",
+      "shortName": "GUM",
+      "locale": "GU",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Guatemala",
+      "shortName": "GTM",
+      "locale": "GT",
+      "telephonyCode": "502"
+    },
+    {
+      "fullName": "Guernsey",
+      "shortName": "GGY",
+      "locale": "GG",
+      "telephonyCode": "44"
+    },
+    {
+      "fullName": "Guinea",
+      "shortName": "GIN",
+      "locale": "GN",
+      "telephonyCode": "224"
+    },
+    {
+      "fullName": "Guinea-Bissau",
+      "shortName": "GNB",
+      "locale": "GW",
+      "telephonyCode": "245"
+    },
+    {
+      "fullName": "Guyana",
+      "shortName": "GUY",
+      "locale": "GY",
+      "telephonyCode": "592"
+    },
+    {
+      "fullName": "Haiti",
+      "shortName": "HTI",
+      "locale": "HT",
+      "telephonyCode": "509"
+    },
+    {
+      "fullName": "Honduras",
+      "shortName": "HND",
+      "locale": "HN",
+      "telephonyCode": "504"
+    },
+    {
+      "fullName": "Hong Kong",
+      "shortName": "HKG",
+      "locale": "HK",
+      "telephonyCode": "852"
+    },
+    {
+      "fullName": "Hungary",
+      "shortName": "HUN",
+      "locale": "HU",
+      "telephonyCode": "36"
+    },
+    {
+      "fullName": "Iceland",
+      "shortName": "ISL",
+      "locale": "IS",
+      "telephonyCode": "354"
+    },
+    {
+      "fullName": "Indonesia",
+      "shortName": "IDN",
+      "locale": "ID",
+      "telephonyCode": "62"
+    },
+    {
+      "fullName": "Iran",
+      "shortName": "IRN",
+      "locale": "IR",
+      "telephonyCode": "98"
+    },
+    {
+      "fullName": "Iraq",
+      "shortName": "IRQ",
+      "locale": "IQ",
+      "telephonyCode": "964"
+    },
+    {
+      "fullName": "Ireland",
+      "shortName": "IRL",
+      "locale": "IE",
+      "telephonyCode": "353"
+    },
+    {
+      "fullName": "Isle of Man",
+      "shortName": "IMN",
+      "locale": "IM",
+      "telephonyCode": "44"
+    },
+    {
+      "fullName": "Israel",
+      "shortName": "ISR",
+      "locale": "IL",
+      "telephonyCode": "972"
+    },
+    {
+      "fullName": "Italy",
+      "shortName": "ITA",
+      "locale": "IT",
+      "telephonyCode": "39"
+    },
+    {
+      "fullName": "Ivory Coast",
+      "shortName": "CIV",
+      "locale": "CI",
+      "telephonyCode": "225"
+    },
+    {
+      "fullName": "Jamaica",
+      "shortName": "JAM",
+      "locale": "JM",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Japan",
+      "shortName": "JPN",
+      "locale": "JP",
+      "telephonyCode": "81"
+    },
+    {
+      "fullName": "Jersey",
+      "shortName": "JEY",
+      "locale": "JE",
+      "telephonyCode": "44"
+    },
+    {
+      "fullName": "Jordan",
+      "shortName": "JOR",
+      "locale": "JO",
+      "telephonyCode": "962"
+    },
+    {
+      "fullName": "Kazakhstan",
+      "shortName": "KAZ",
+      "locale": "KZ",
+      "telephonyCode": "7"
+    },
+    {
+      "fullName": "Kenya",
+      "shortName": "KEN",
+      "locale": "KE",
+      "telephonyCode": "254"
+    },
+    {
+      "fullName": "Kiribati",
+      "shortName": "KIR",
+      "locale": "KI",
+      "telephonyCode": "686"
+    },
+    {
+      "fullName": "Kosovo",
+      "shortName": "XKX",
+      "locale": "XK",
+      "telephonyCode": "383"
+    },
+    {
+      "fullName": "Kuwait",
+      "shortName": "KWT",
+      "locale": "KW",
+      "telephonyCode": "965"
+    },
+    {
+      "fullName": "Kyrgyzstan",
+      "shortName": "KGZ",
+      "locale": "KG",
+      "telephonyCode": "996"
+    },
+    {
+      "fullName": "Laos",
+      "shortName": "LAO",
+      "locale": "LA",
+      "telephonyCode": "856"
+    },
+    {
+      "fullName": "Latvia",
+      "shortName": "LVA",
+      "locale": "LV",
+      "telephonyCode": "371"
+    },
+    {
+      "fullName": "Lebanon",
+      "shortName": "LBN",
+      "locale": "LB",
+      "telephonyCode": "961"
+    },
+    {
+      "fullName": "Lesotho",
+      "shortName": "LSO",
+      "locale": "LS",
+      "telephonyCode": "266"
+    },
+    {
+      "fullName": "Liberia",
+      "shortName": "LBR",
+      "locale": "LR",
+      "telephonyCode": "231"
+    },
+    {
+      "fullName": "Libya",
+      "shortName": "LBY",
+      "locale": "LY",
+      "telephonyCode": "218"
+    },
+    {
+      "fullName": "Liechtenstein",
+      "shortName": "LIE",
+      "locale": "LI",
+      "telephonyCode": "423"
+    },
+    {
+      "fullName": "Lithuania",
+      "shortName": "LTU",
+      "locale": "LT",
+      "telephonyCode": "370"
+    },
+    {
+      "fullName": "Luxembourg",
+      "shortName": "LUX",
+      "locale": "LU",
+      "telephonyCode": "352"
+    },
+    {
+      "fullName": "Macao",
+      "shortName": "MAC",
+      "locale": "MO",
+      "telephonyCode": "853"
+    },
+    {
+      "fullName": "Macedonia",
+      "shortName": "MKD",
+      "locale": "MK",
+      "telephonyCode": "389"
+    },
+    {
+      "fullName": "Madagascar",
+      "shortName": "MDG",
+      "locale": "MG",
+      "telephonyCode": "261"
+    },
+    {
+      "fullName": "Malawi",
+      "shortName": "MWI",
+      "locale": "MW",
+      "telephonyCode": "265"
+    },
+    {
+      "fullName": "Malaysia",
+      "shortName": "MYS",
+      "locale": "MY",
+      "telephonyCode": "60"
+    },
+    {
+      "fullName": "Maldives",
+      "shortName": "MDV",
+      "locale": "MV",
+      "telephonyCode": "960"
+    },
+    {
+      "fullName": "Mali",
+      "shortName": "MLI",
+      "locale": "ML",
+      "telephonyCode": "223"
+    },
+    {
+      "fullName": "Malta",
+      "shortName": "MLT",
+      "locale": "MT",
+      "telephonyCode": "356"
+    },
+    {
+      "fullName": "Marshall Islands",
+      "shortName": "MHL",
+      "locale": "MH",
+      "telephonyCode": "692"
+    },
+    {
+      "fullName": "Mauritania",
+      "shortName": "MRT",
+      "locale": "MR",
+      "telephonyCode": "222"
+    },
+    {
+      "fullName": "Mauritius",
+      "shortName": "MUS",
+      "locale": "MU",
+      "telephonyCode": "230"
+    },
+    {
+      "fullName": "Mayotte",
+      "shortName": "MYT",
+      "locale": "YT",
+      "telephonyCode": "262"
+    },
+    {
+      "fullName": "Mexico",
+      "shortName": "MEX",
+      "locale": "MX",
+      "telephonyCode": "52"
+    },
+    {
+      "fullName": "Micronesia",
+      "shortName": "FSM",
+      "locale": "FM",
+      "telephonyCode": "691"
+    },
+    {
+      "fullName": "Moldova",
+      "shortName": "MDA",
+      "locale": "MD",
+      "telephonyCode": "373"
+    },
+    {
+      "fullName": "Monaco",
+      "shortName": "MCO",
+      "locale": "MC",
+      "telephonyCode": "377"
+    },
+    {
+      "fullName": "Mongolia",
+      "shortName": "MNG",
+      "locale": "MN",
+      "telephonyCode": "976"
+    },
+    {
+      "fullName": "Montenegro",
+      "shortName": "MNE",
+      "locale": "ME",
+      "telephonyCode": "382"
+    },
+    {
+      "fullName": "Montserrat",
+      "shortName": "MSR",
+      "locale": "MS",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Morocco",
+      "shortName": "MAR",
+      "locale": "MA",
+      "telephonyCode": "212"
+    },
+    {
+      "fullName": "Mozambique",
+      "shortName": "MOZ",
+      "locale": "MZ",
+      "telephonyCode": "258"
+    },
+    {
+      "fullName": "Myanmar",
+      "shortName": "MMR",
+      "locale": "MM",
+      "telephonyCode": "95"
+    },
+    {
+      "fullName": "Namibia",
+      "shortName": "NAM",
+      "locale": "NA",
+      "telephonyCode": "264"
+    },
+    {
+      "fullName": "Nauru",
+      "shortName": "NRU",
+      "locale": "NR",
+      "telephonyCode": "674"
+    },
+    {
+      "fullName": "Nepal",
+      "shortName": "NPL",
+      "locale": "NP",
+      "telephonyCode": "977"
+    },
+    {
+      "fullName": "Netherlands",
+      "shortName": "NLD",
+      "locale": "NL",
+      "telephonyCode": "31"
+    },
+    {
+      "fullName": "Netherlands Antilles",
+      "shortName": "ANT",
+      "locale": "AN",
+      "telephonyCode": "599"
+    },
+    {
+      "fullName": "New Caledonia",
+      "shortName": "NCL",
+      "locale": "NC",
+      "telephonyCode": "687"
+    },
+    {
+      "fullName": "New Zealand",
+      "shortName": "NZL",
+      "locale": "NZ",
+      "telephonyCode": "64"
+    },
+    {
+      "fullName": "Nicaragua",
+      "shortName": "NIC",
+      "locale": "NI",
+      "telephonyCode": "505"
+    },
+    {
+      "fullName": "Niger",
+      "shortName": "NER",
+      "locale": "NE",
+      "telephonyCode": "227"
+    },
+    {
+      "fullName": "Nigeria",
+      "shortName": "NGA",
+      "locale": "NG",
+      "telephonyCode": "234"
+    },
+    {
+      "fullName": "Niue",
+      "shortName": "NIU",
+      "locale": "NU",
+      "telephonyCode": "683"
+    },
+    {
+      "fullName": "North Korea",
+      "shortName": "PRK",
+      "locale": "KP",
+      "telephonyCode": "850"
+    },
+    {
+      "fullName": "Northern Mariana Islands",
+      "shortName": "MNP",
+      "locale": "MP",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Norway",
+      "shortName": "NOR",
+      "locale": "NO",
+      "telephonyCode": "47"
+    },
+    {
+      "fullName": "Oman",
+      "shortName": "OMN",
+      "locale": "OM",
+      "telephonyCode": "968"
+    },
+    {
+      "fullName": "Pakistan",
+      "shortName": "PAK",
+      "locale": "PK",
+      "telephonyCode": "92"
+    },
+    {
+      "fullName": "Palau",
+      "shortName": "PLW",
+      "locale": "PW",
+      "telephonyCode": "680"
+    },
+    {
+      "fullName": "Palestine",
+      "shortName": "PSE",
+      "locale": "PS",
+      "telephonyCode": "970"
+    },
+    {
+      "fullName": "Panama",
+      "shortName": "PAN",
+      "locale": "PA",
+      "telephonyCode": "507"
+    },
+    {
+      "fullName": "Papua New Guinea",
+      "shortName": "PNG",
+      "locale": "PG",
+      "telephonyCode": "675"
+    },
+    {
+      "fullName": "Paraguay",
+      "shortName": "PRY",
+      "locale": "PY",
+      "telephonyCode": "595"
+    },
+    {
+      "fullName": "Peru",
+      "shortName": "PER",
+      "locale": "PE",
+      "telephonyCode": "51"
+    },
+    {
+      "fullName": "Philippines",
+      "shortName": "PHL",
+      "locale": "PH",
+      "telephonyCode": "63"
+    },
+    {
+      "fullName": "Pitcairn",
+      "shortName": "PCN",
+      "locale": "PN",
+      "telephonyCode": "64"
+    },
+    {
+      "fullName": "Poland",
+      "shortName": "POL",
+      "locale": "PL",
+      "telephonyCode": "48"
+    },
+    {
+      "fullName": "Portugal",
+      "shortName": "PRT",
+      "locale": "PT",
+      "telephonyCode": "351"
+    },
+    {
+      "fullName": "Puerto Rico",
+      "shortName": "PRI",
+      "locale": "PR",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Qatar",
+      "shortName": "QAT",
+      "locale": "QA",
+      "telephonyCode": "974"
+    },
+    {
+      "fullName": "Republic of the Congo",
+      "shortName": "COG",
+      "locale": "CG",
+      "telephonyCode": "242"
+    },
+    {
+      "fullName": "Reunion",
+      "shortName": "REU",
+      "locale": "RE",
+      "telephonyCode": "262"
+    },
+    {
+      "fullName": "Romania",
+      "shortName": "ROU",
+      "locale": "RO",
+      "telephonyCode": "40"
+    },
+    {
+      "fullName": "Russia",
+      "shortName": "RUS",
+      "locale": "RU",
+      "telephonyCode": "7"
+    },
+    {
+      "fullName": "Rwanda",
+      "shortName": "RWA",
+      "locale": "RW",
+      "telephonyCode": "250"
+    },
+    {
+      "fullName": "Saint Barthelemy",
+      "shortName": "BLM",
+      "locale": "BL",
+      "telephonyCode": "590"
+    },
+    {
+      "fullName": "Saint Helena",
+      "shortName": "SHN",
+      "locale": "SH",
+      "telephonyCode": "290"
+    },
+    {
+      "fullName": "Saint Kitts and Nevis",
+      "shortName": "KNA",
+      "locale": "KN",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Saint Lucia",
+      "shortName": "LCA",
+      "locale": "LC",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Saint Martin",
+      "shortName": "MAF",
+      "locale": "MF",
+      "telephonyCode": "590"
+    },
+    {
+      "fullName": "Saint Pierre and Miquelon",
+      "shortName": "SPM",
+      "locale": "PM",
+      "telephonyCode": "508"
+    },
+    {
+      "fullName": "Saint Vincent and the Grenadines",
+      "shortName": "VCT",
+      "locale": "VC",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Samoa",
+      "shortName": "WSM",
+      "locale": "WS",
+      "telephonyCode": "685"
+    },
+    {
+      "fullName": "San Marino",
+      "shortName": "SMR",
+      "locale": "SM",
+      "telephonyCode": "378"
+    },
+    {
+      "fullName": "Sao Tome and Principe",
+      "shortName": "STP",
+      "locale": "ST",
+      "telephonyCode": "239"
+    },
+    {
+      "fullName": "Saudi Arabia",
+      "shortName": "SAU",
+      "locale": "SA",
+      "telephonyCode": "966"
+    },
+    {
+      "fullName": "Senegal",
+      "shortName": "SEN",
+      "locale": "SN",
+      "telephonyCode": "221"
+    },
+    {
+      "fullName": "Serbia",
+      "shortName": "SRB",
+      "locale": "RS",
+      "telephonyCode": "381"
+    },
+    {
+      "fullName": "Seychelles",
+      "shortName": "SYC",
+      "locale": "SC",
+      "telephonyCode": "248"
+    },
+    {
+      "fullName": "Sierra Leone",
+      "shortName": "SLE",
+      "locale": "SL",
+      "telephonyCode": "232"
+    },
+    {
+      "fullName": "Singapore",
+      "shortName": "SGP",
+      "locale": "SG",
+      "telephonyCode": "65"
+    },
+    {
+      "fullName": "Sint Maarten",
+      "shortName": "SXM",
+      "locale": "SX",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Slovakia",
+      "shortName": "SVK",
+      "locale": "SK",
+      "telephonyCode": "421"
+    },
+    {
+      "fullName": "Slovenia",
+      "shortName": "SVN",
+      "locale": "SI",
+      "telephonyCode": "386"
+    },
+    {
+      "fullName": "Solomon Islands",
+      "shortName": "SLB",
+      "locale": "SB",
+      "telephonyCode": "677"
+    },
+    {
+      "fullName": "Somalia",
+      "shortName": "SOM",
+      "locale": "SO",
+      "telephonyCode": "252"
+    },
+    {
+      "fullName": "South Africa",
+      "shortName": "ZAF",
+      "locale": "ZA",
+      "telephonyCode": "27"
+    },
+    {
+      "fullName": "South Korea",
+      "shortName": "KOR",
+      "locale": "KR",
+      "telephonyCode": "82"
+    },
+    {
+      "fullName": "South Sudan",
+      "shortName": "SSD",
+      "locale": "SS",
+      "telephonyCode": "211"
+    },
+    {
+      "fullName": "Spain",
+      "shortName": "ESP",
+      "locale": "ES",
+      "telephonyCode": "34"
+    },
+    {
+      "fullName": "Sri Lanka",
+      "shortName": "LKA",
+      "locale": "LK",
+      "telephonyCode": "94"
+    },
+    {
+      "fullName": "Sudan",
+      "shortName": "SDN",
+      "locale": "SD",
+      "telephonyCode": "249"
+    },
+    {
+      "fullName": "Suriname",
+      "shortName": "SUR",
+      "locale": "SR",
+      "telephonyCode": "597"
+    },
+    {
+      "fullName": "Svalbard and Jan Mayen",
+      "shortName": "SJM",
+      "locale": "SJ",
+      "telephonyCode": "47"
+    },
+    {
+      "fullName": "Swaziland",
+      "shortName": "SWZ",
+      "locale": "SZ",
+      "telephonyCode": "268"
+    },
+    {
+      "fullName": "Sweden",
+      "shortName": "SWE",
+      "locale": "SE",
+      "telephonyCode": "46"
+    },
+    {
+      "fullName": "Switzerland",
+      "shortName": "CHE",
+      "locale": "CH",
+      "telephonyCode": "41"
+    },
+    {
+      "fullName": "Syria",
+      "shortName": "SYR",
+      "locale": "SY",
+      "telephonyCode": "963"
+    },
+    {
+      "fullName": "Taiwan",
+      "shortName": "TWN",
+      "locale": "TW",
+      "telephonyCode": "886"
+    },
+    {
+      "fullName": "Tajikistan",
+      "shortName": "TJK",
+      "locale": "TJ",
+      "telephonyCode": "992"
+    },
+    {
+      "fullName": "Tanzania",
+      "shortName": "TZA",
+      "locale": "TZ",
+      "telephonyCode": "255"
+    },
+    {
+      "fullName": "Thailand",
+      "shortName": "THA",
+      "locale": "TH",
+      "telephonyCode": "66"
+    },
+    {
+      "fullName": "Togo",
+      "shortName": "TGO",
+      "locale": "TG",
+      "telephonyCode": "228"
+    },
+    {
+      "fullName": "Tokelau",
+      "shortName": "TKL",
+      "locale": "TK",
+      "telephonyCode": "690"
+    },
+    {
+      "fullName": "Tonga",
+      "shortName": "TON",
+      "locale": "TO",
+      "telephonyCode": "676"
+    },
+    {
+      "fullName": "Trinidad and Tobago",
+      "shortName": "TTO",
+      "locale": "TT",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Tunisia",
+      "shortName": "TUN",
+      "locale": "TN",
+      "telephonyCode": "216"
+    },
+    {
+      "fullName": "Turkey",
+      "shortName": "TUR",
+      "locale": "TR",
+      "telephonyCode": "90"
+    },
+    {
+      "fullName": "Turkmenistan",
+      "shortName": "TKM",
+      "locale": "TM",
+      "telephonyCode": "993"
+    },
+    {
+      "fullName": "Turks and Caicos Islands",
+      "shortName": "TCA",
+      "locale": "TC",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Tuvalu",
+      "shortName": "TUV",
+      "locale": "TV",
+      "telephonyCode": "688"
+    },
+    {
+      "fullName": "U.S. Virgin Islands",
+      "shortName": "VIR",
+      "locale": "VI",
+      "telephonyCode": "1"
+    },
+    {
+      "fullName": "Uganda",
+      "shortName": "UGA",
+      "locale": "UG",
+      "telephonyCode": "256"
+    },
+    {
+      "fullName": "Ukraine",
+      "shortName": "UKR",
+      "locale": "UA",
+      "telephonyCode": "380"
+    },
+    {
+      "fullName": "United Arab Emirates",
+      "shortName": "ARE",
+      "locale": "AE",
+      "telephonyCode": "971"
+    },
+    {
+      "fullName": "Uruguay",
+      "shortName": "URY",
+      "locale": "UY",
+      "telephonyCode": "598"
+    },
+    {
+      "fullName": "Uzbekistan",
+      "shortName": "UZB",
+      "locale": "UZ",
+      "telephonyCode": "998"
+    },
+    {
+      "fullName": "Vanuatu",
+      "shortName": "VUT",
+      "locale": "VU",
+      "telephonyCode": "678"
+    },
+    {
+      "fullName": "Vatican",
+      "shortName": "VAT",
+      "locale": "VA",
+      "telephonyCode": "379"
+    },
+    {
+      "fullName": "Venezuela",
+      "shortName": "VEN",
+      "locale": "VE",
+      "telephonyCode": "58"
+    },
+    {
+      "fullName": "Vietnam",
+      "shortName": "VNM",
+      "locale": "VN",
+      "telephonyCode": "84"
+    },
+    {
+      "fullName": "Wallis and Futuna",
+      "shortName": "WLF",
+      "locale": "WF",
+      "telephonyCode": "681"
+    },
+    {
+      "fullName": "Western Sahara",
+      "shortName": "ESH",
+      "locale": "EH",
+      "telephonyCode": "212"
+    },
+    {
+      "fullName": "Yemen",
+      "shortName": "YEM",
+      "locale": "YE",
+      "telephonyCode": "967"
+    },
+    {
+      "fullName": "Zambia",
+      "shortName": "ZMB",
+      "locale": "ZM",
+      "telephonyCode": "260"
+    },
+    {
+      "fullName": "Zimbabwe",
+      "shortName": "ZWE",
+      "locale": "ZW",
+      "telephonyCode": "263"
+    }
+  ]
+}
