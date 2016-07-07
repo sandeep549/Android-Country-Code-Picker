@@ -1,13 +1,3 @@
----
-title: Telephony Country Code Widget
-description: Android widget to pop up telephony country codes when clicked.
-author: Sandeep Kumar
-tags: android, country, code, telephony
-colors: light yellow
-
-
----
-
 Telephony Country Code Widget
 =========
 
